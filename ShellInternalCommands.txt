@@ -1,0 +1,14 @@
+cd: change current directory
+pwd: print working directory
+echo: display a line of text
+exit: terminate shell session
+export: set an environment variable
+alias: displays aliases of commands
+history: display the command history
+kill: sends a signal to a process to terminate it
+read
+set
+shift
+source
+type
+

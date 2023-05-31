@@ -1,0 +1,10 @@
+gcc - Compiler for C and C++ programming languages.
+make - Utility for automating the buiding and compilation of software projects.
+ar - create or extract files from an archieve file
+at - run command at a specified time
+awk - text processing
+bc - text based clculator
+cat - concatenate files and display to standard output
+cp - copy file
+df - report the free disk space
+diff - compare two files
